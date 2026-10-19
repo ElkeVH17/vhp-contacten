@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Van Huynegem;Willem;;;
+FN:Willem Van Huynegem
+ORG:VHP Wegenbouw
+TITLE:Zaakvoerder
+TEL;TYPE=CELL:+32495250913
+EMAIL;TYPE=INTERNET:willem@whpwegenbouw.be
+ADR;TYPE=WORK:;;Smallandlaan 10;Antwerpen;;2660;België
+URL:https://www.vhpwegenbouw.be
+NOTE:BTW-nummer BE 0822.942.060
+END:VCARD
